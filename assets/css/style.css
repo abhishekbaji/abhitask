@@ -486,7 +486,7 @@ h4{
     z-index: 1000 !important;
   }
   .img-adjust-r{
-    width: 50% !important;
+        width: 50% !important;
     position: absolute !important;
     top: 367px !important;
     right: 1px !important;
