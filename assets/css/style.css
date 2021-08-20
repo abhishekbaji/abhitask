@@ -481,14 +481,14 @@ h4{
   .img-adjust-l{
     width: 50% !important;
     position: absolute !important;
-    top: 331px !important;
+    top: 367px !important;
     left: 1px !important;
     z-index: 1000 !important;
   }
   .img-adjust-r{
     width: 50% !important;
     position: absolute !important;
-    top: 331px !important;
+    top: 367px !important;
     right: 1px !important;
     z-index: 1000 !important;
   }
